@@ -1,5 +1,6 @@
 ![titanic](https://github.com/AnaPatSilva/Titanic_II-Machine-Learning-Python/blob/main/titanic_custom-fc6a03aedd8e562d780ecf9b9a8a947d4dcbf163-s1100-c50.jpg)
-# Titanic_II
+# Titanic II
+# Machine Learning & PYTHON
 I made my first submission to the Kaggle Competition [**Titanic - Machine Learning from Disaster**](https://www.kaggle.com/competitions/titanic/overview).
 
 You can check it [here](https://github.com/AnaPatSilva/Titanic-I).
